@@ -1,7 +1,7 @@
 # BTSP-CA3-modeling
 Code related to the modeling component of the publication, "Mechanisms of memory-supporting neuronal dynamics in hippocampal area CA3"
 
-This repository uses Git LFS to manage the .mat files containing simulations of large networks. Please install Git LFS (https://git-lfs.com) before attempting to clone the repository. If issues exist with the .mat files, we recommend cloning the repository directly from the website (https://github.com/romani-lab/BTSP-CA3-modeling/) after installing git-lfs. 
+This repository uses Git LFS to manage the .mat files containing simulations of large networks. Please install Git LFS (https://git-lfs.com) before attempting to clone the repository. If issues exist with the .mat files, we recommend cloning the repository directly from the website (https://github.com/romani-lab/Mechanisms-of-memory-supporting-neuronal-dynamics-in-hippocampal-area-CA3-code/) after installing git-lfs. 
 
 Short version, reproducing paper Figures:
 
